@@ -1,0 +1,42 @@
+{
+  "restaurants": [
+    {
+      "id": 2,
+      "name": "OM restaurant",
+      "email": "om@text.com",
+      "address": "delhi sector 140"
+    },
+    {
+      "name": "mcdonals d restaurant",
+      "address": "delhi sector 120",
+      "email": "mcdonals@text.com",
+      "id": 3
+    },
+    {
+      "name": "halidram king d restaurant",
+      "address": "delhi sector 150",
+      "email": "halidram@text.com",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "israel berezin",
+      "email": "imbe@test.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Men Ber",
+      "email": "m@test.com",
+      "password": "123321"
+    },
+    {
+      "id": 3,
+      "name": "aaa",
+      "email": "aaa",
+      "password": "123"
+    }
+  ]
+}
